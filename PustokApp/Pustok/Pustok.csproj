@@ -7,6 +7,18 @@
   <ItemGroup>
     <Compile Remove="Migrations\20221129135632_AuthorsTableCreated.cs" />
     <Compile Remove="Migrations\20221129135632_AuthorsTableCreated.Designer.cs" />
+    <Compile Remove="Migrations\20221129190152_GenresTableCreated.cs" />
+    <Compile Remove="Migrations\20221129190152_GenresTableCreated.Designer.cs" />
+    <Compile Remove="Migrations\20221129190311_GenresTableCreated.cs" />
+    <Compile Remove="Migrations\20221129190311_GenresTableCreated.Designer.cs" />
+    <Compile Remove="Migrations\20221129191755_BooksTableCreated.cs" />
+    <Compile Remove="Migrations\20221129191755_BooksTableCreated.Designer.cs" />
+    <Compile Remove="Migrations\20221129202516_TablesConfigured.cs" />
+    <Compile Remove="Migrations\20221129202516_TablesConfigured.Designer.cs" />
+    <Compile Remove="Migrations\20221129203009_SlidersTableCreated.cs" />
+    <Compile Remove="Migrations\20221129203009_SlidersTableCreated.Designer.cs" />
+    <Compile Remove="Migrations\20221129203633_BtnPromotionsTableCreated.cs" />
+    <Compile Remove="Migrations\20221129203633_BtnPromotionsTableCreated.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
